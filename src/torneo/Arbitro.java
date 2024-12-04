@@ -9,5 +9,7 @@ package torneo;
  * @author B045_12
  */
 public class Arbitro {
-    
+    public Arbitro(){
+        System.out.println("Classe Arbitro");
+    }
 }
