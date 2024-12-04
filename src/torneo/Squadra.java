@@ -9,5 +9,7 @@ package torneo;
  * @author B045_12
  */
 public class Squadra {
-    
+    public Squadra(){
+        System.out.println("Classe squadra");
+    }
 }
