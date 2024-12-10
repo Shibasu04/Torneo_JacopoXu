@@ -1,7 +1,7 @@
 package torneo;
 
 /**
- * @author B045_12
+ * @author JacopoXu
  * @see SchedaEsercitazione
  */
 public class Squadra {
